@@ -12,6 +12,7 @@
 		FC70CA1A1F16DD2D002E250C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC70CA181F16DD2D002E250C /* Main.storyboard */; };
 		FC70CA1C1F16DD2D002E250C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC70CA1B1F16DD2D002E250C /* Assets.xcassets */; };
 		FC70CA1F1F16DD2D002E250C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC70CA1D1F16DD2D002E250C /* LaunchScreen.storyboard */; };
+		FC7EB3CC1F1917DE00201EA8 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = FC7EB3CB1F1917DE00201EA8 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FC70CA1B1F16DD2D002E250C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC70CA1E1F16DD2D002E250C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FC70CA201F16DD2D002E250C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC7EB3CB1F1917DE00201EA8 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FC70CA181F16DD2D002E250C /* Main.storyboard */,
 				FC70CA1B1F16DD2D002E250C /* Assets.xcassets */,
 				FC70CA1D1F16DD2D002E250C /* LaunchScreen.storyboard */,
+				FC7EB3CB1F1917DE00201EA8 /* pokemon.csv */,
 				FC70CA201F16DD2D002E250C /* Info.plist */,
 			);
 			path = pokedex3;
@@ -126,6 +129,7 @@
 			files = (
 				FC70CA1F1F16DD2D002E250C /* LaunchScreen.storyboard in Resources */,
 				FC70CA1C1F16DD2D002E250C /* Assets.xcassets in Resources */,
+				FC7EB3CC1F1917DE00201EA8 /* pokemon.csv in Resources */,
 				FC70CA1A1F16DD2D002E250C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				FC70CA251F16DD2D002E250C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
